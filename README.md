@@ -8,7 +8,7 @@ Através do campo de busca, permite que o usúario possa pesquisar os seus filme
 
 Para o desenvolvimento desta aplicação, utilizei:
 
-- [ReactiveJS](https://reactjs.org/) </br>
+- [ReactJS](https://reactjs.org/) </br>
 - [The Movie Database API](https://www.themoviedb.org/documentation/api)
 - [Node.js](https://nodejs.org/en/)
 
@@ -51,4 +51,4 @@ $ npm install
 Feito com ❤️ por Ana Clara Bordinhon 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ana_Clara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabordinhon/)](https://www.linkedin.com/in/anabordinhon/) 
-[![Gmail Badge](https://img.shields.io/badge/-abordinhon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabordinhon@gmail.com)](mailto:anabordinhon@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-anabordinhon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabordinhon@gmail.com)](mailto:anabordinhon@gmail.com)
